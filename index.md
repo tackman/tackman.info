@@ -21,8 +21,7 @@ An esoteric programming language
 
 ### Skills
 
-- Application develop, in a broad sence
-  - Including software engineering, marketing and planning
+- Software enginnering
 - Machine learning / image processing
 - Game design
 
