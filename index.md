@@ -27,7 +27,7 @@ An esoteric programming language
 
 ### Social
 
-- Mastodon [@tackman@social.tackman.info](htts://social.tackman.info/@tackman)
+- Mastodon [@tackman@mastodon.tackman.info](https://mastodon.tackman.info/@tackman)
 - Twitter [@tackman](https://twitter.com/tackman/)
 - Github https://github.com/tackman/
 
