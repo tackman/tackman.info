@@ -10,8 +10,8 @@ Software engineer / Application developer / Game designer
 
 Yuri-Kure, 百合 board game.
 
-- Game scoring support tool https://yurikure.wr-inst.org/app/
-  - Source: https://github.com/tackman/YurikureScoreApp
+- [Game scoring support tool](https://yurikure.wr-inst.org/app/)
+  - [Source(GitHub)](https://github.com/tackman/YurikureScoreApp)
 
 ### [HyTouch](https://github.com/tackman/HyTouch)
 
@@ -29,24 +29,35 @@ Catan (board game) auto map generator
 
 (Published from Wright Flyers Inc. Seems now discontinued...)
 
+### [量子ドミニオン](https://tackman.booth.pm/items/1272485)
+
+"Quantum Dominion". MOD rule of Dominion(board game) to play in quantum theory world.
+
 ## Skills
 
 - Software engineering and programming
 - Machine learning / image processing
 - Game design and game programming
 
-- Experienced in production:
-  - Programming languages: Scala / Kotlin / Java / JavaScript(ES6) / C# / Python / PHP / C++
-  - Platforms and frameworks: Unity / React.js / Vue.js / Nuxt.js / Android application / MySQL / Firebase
+- Experienced in:
+  - Video game and application develop with Unity
+  - Video & board game design
+  - Deep learning, specially in image generation with PyTorch
+  - MLOps with Docker, TensorFlow.js
+  - Android app develop with Java/Kotlin
+  - Web system develop with Scala/AWS/micro services
+  - Web frontend develop with React/Vue
+
+"Democratizing creative activities" is what I am in pursuit of. Personal interests depends on above purpose. Now I am interested in deep learning to create artwork and to assist game designing.
 
 ## Social
 
 - Email tackman@tackman.info
 - Mastodon [@tackman@mastodon.tackman.info](https://mastodon.tackman.info/@tackman)
 - Twitter [@tackman](https://twitter.com/tackman/)
-- Github https://github.com/tackman/
-- Blog https://essay.tackman.info/
-- Qiita https://qiita.com/tackman
+- [Github](https://github.com/tackman/)
+- [Essay blog](https://essay.tackman.info/)
+- [Qiita](https://qiita.com/tackman)
 
 ## Circles (dojin)
 
@@ -57,12 +68,10 @@ Catan (board game) auto map generator
 
 ## Career
 
-- I've graduated Department of Information and Communication Engineering, Tokyo Univ in 2011.
+- Graduated Department of Information and Communication Engineering, The University of Tokyo in 2011.
 - 2011~2012 Worked at a software developing company, as an Android app engineer
 - 2012~2016 Worked at social game platform company
   - Android app developer -> Game develop engineer
 - 2016~2018 Worked at a software developing company
   - Machine learning engineer / smartphone app development / smartphone game development / web system development
 - 2018~ Freelance
-
-"Democratizing creative activities" is what I am in pursuit of.
